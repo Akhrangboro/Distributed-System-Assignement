@@ -12,7 +12,7 @@ This project demonstrates fundamental **distributed systems concepts** such as n
 ## 👨‍🎓 Group Members
   
 - **Akhrang Boro** – Roll No: 220710007010  
-- **Devasish Rabha** – Roll No: 220710007022  
+- **Debasish Rabha** – Roll No: 220710007022  
 - **Guthal Basumatary** – Roll No: 220710007026  
 
 ---
